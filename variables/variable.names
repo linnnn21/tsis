@@ -1,3 +1,0 @@
-myVariableName = 'aa'  #camel case
-MyVariableName = 'aa' #pascal case
-my_variable_name = 'aa' #snale case
