@@ -1,1 +1,7 @@
-Content for booleans4.py
+def myFunction():
+    return True
+
+if myFunction():
+    print("YES!")
+else:
+    print("NO!")
